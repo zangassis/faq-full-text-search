@@ -13,7 +13,7 @@ This repository contains the code for a basic ASP.NET Core application that demo
 - **tsquery**
 - **GIN indexes**
 - **Relevance ranking**
--- **Less efficient methods like EF Core Contains**
+- **Less efficient methods like EF Core Contains**
   
 ---
 
